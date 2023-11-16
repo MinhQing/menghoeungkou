@@ -1,0 +1,308 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+}
+
+.hh { 
+    font-size: 60px;
+    margin-top: 210px;
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Sacramento', cursive;
+}
+
+.intro {
+    width: 80%;
+    margin: auto;
+
+}
+
+h1 {
+    color: #66BFBF;
+    margin-top: 60px;
+}
+
+h2 {
+    color: rgb(161, 82, 168);
+
+}
+
+h3 {
+    color: #66BFBF;
+    margin-top: 30px;
+}
+
+.p1 {
+    width: 80%;
+    margin: auto;
+}
+
+.p2 {
+    width: 80%;
+    margin: auto;
+}
+
+.p3 {
+    width: 80%;
+    margin: auto;
+}
+
+.sun {
+    position: absolute;
+    width: 130px;
+    right: 310px;
+    top: 60px;
+}
+
+.hello {
+    margin-top: 40px;
+}
+
+.camping {
+    margin-top: 5em;
+    width: 300px;
+}
+
+.camping2 {
+    width: 300px;
+}
+
+.top-container {
+    background-color: rgb(252, 248, 248);
+}
+
+.middle-container {
+    margin-top: 5em;
+}
+
+.last-container {
+    margin-top: 80px;
+}
+
+.water {
+    position: absolute;
+    right: 4px;
+    top: 132em;
+    width: 30px;
+}
+
+.water2 {
+    position: absolute;
+    left: 10px;
+    top: 132em;
+    width: 30px;
+    margin: auto;
+}
+
+.lend {
+    width: 100%;
+    height: 80px;
+    margin: auto;
+}
+
+.guy {
+    position: absolute;
+    width: 50px;
+    top: 2024px;
+}
+
+.design {
+    height: 130px;
+    left: 27em;
+    top: 80em;
+}
+
+.design2 {
+    height: 130px;
+    position: absolute;
+    right: 27em;
+    top: 90em;
+}
+
+.contect {
+    position: absolute;
+    top: 134em;
+    left: 4%;
+    margin: auto;
+}
+
+.telegram {
+    width: 15px;
+    height: 15px;
+}
+
+.facebook {
+    width: 15px;
+    height: 15px;
+}
+
+.instagram {
+    width: 15px;
+    height: 15px;
+}
+
+.twitter {
+    width: 15px;
+    height: 15px;
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    margin: auto;
+}
+
+
+@media only screen and (min-width: 768px) {
+
+    body {
+        color: #40514E;
+        margin: 0;
+        text-align: center;
+    }
+
+    .hh {
+        font-size: 60px;
+        margin-top: 210px;
+        color: #66BFBF;
+        font-family: 'Montserrat', sans-serif;
+        font-family: 'Sacramento', cursive;
+    }
+
+    .intro {
+        width: 40%;
+        margin: auto;
+
+    }
+
+    h1 {
+        color: #66BFBF;
+        margin-top: 90px;
+    }
+
+    h2 {
+        color: rgb(161, 82, 168);
+
+    }
+
+    h3 {
+        color: #66BFBF;
+        margin-top: 90px;
+    }
+
+    .p1 {
+        width: 40%;
+        margin: auto;
+    }
+
+    .p2 {
+        width: 40%;
+        margin: auto;
+    }
+
+    .sun {
+        position: absolute;
+        width: 150px;
+        right: 310px;
+        top: 60px;
+    }
+
+    .hello {
+        position: absolute;
+        width: 200px;
+        left: 300px;
+        bottom: 630px;
+    }
+
+    .camping {
+        margin-top: 5em;
+    }
+
+    .top-container {
+        background-color: rgb(252, 248, 248);
+    }
+
+    .middle-container {
+        margin-top: 5em;
+    }
+
+    .last-container {
+        margin-top: 10em;
+    }
+
+    .water {
+        position: absolute;
+        right: 100px;
+        top: 113em;
+        width: 60px;
+    }
+
+    .water2 {
+        position: absolute;
+        left: 100px;
+        top: 113em;
+        width: 60px;
+    }
+
+    .lend {
+        width: 100%;
+        height: 200px;
+        margin: auto;
+    }
+
+    .guy {
+        position: absolute;
+        width: 8em;
+        right: 400px;
+        top: 103em;
+    }
+
+    .design {
+        height: 130px;
+        position: absolute;
+        left: 27em;
+        top: 80em;
+    }
+
+    .design2 {
+        height: 130px;
+        position: absolute;
+        right: 27em;
+        top: 90em;
+    }
+
+    .contect {
+        position: absolute;
+        
+        top: 122em;
+        left: 660px;
+        margin: auto;
+    }
+
+    .telegram {
+        width: 40px;
+        height: 40px;
+    }
+
+    .facebook {
+        width: 40px;
+        height: 40px;
+    }
+
+    .instagram {
+        width: 40px;
+        height: 40px;
+    }
+
+    .twitter {
+        width: 40px;
+        height: 40px;
+    }
+
+    hr {
+        border: dotted #EAF6F6 6px;
+        border-bottom: none;
+        margin: auto;
+    }
+}
